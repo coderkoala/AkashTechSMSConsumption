@@ -1,0 +1,12 @@
+{
+  "name": "akash-tech-sms-api-consumption",
+  "version": "0.0.0",
+  "description": "AkashTech SMS API Consumption",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
